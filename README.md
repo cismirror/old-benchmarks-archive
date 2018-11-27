@@ -1,5 +1,5 @@
-# CIS Benchamarks Mirror
+# CIS Benchmarks Mirror
 
-This repository contains a mirror of benchamrks published by CIS.
+This repository contains a mirror of benchmarks published by CIS.
 
 It's updated weekly, every Friday.
